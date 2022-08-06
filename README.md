@@ -46,23 +46,3 @@ h2::before {
 
 or we can use `attr(href as example)` as value for content attribute or `open-quote` or `close-quote` 
 
-**pseudo classes** 
-
-`:empty` mean any tag with any space or content
-`:link 
-:active
-:hover 
-:visited`
-
-`:hover 
-:disabled` 
-
-`:checked` 
-
-`:default` 
-
-`:enabled`
-
-`:read-only`
-
-</aside>
